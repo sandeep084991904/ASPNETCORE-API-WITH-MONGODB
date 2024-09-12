@@ -1,0 +1,10 @@
+@MongoDBCrudExample_HostAddress = https://localhost:7284
+
+
+GET {{MongoDBCrudExample_HostAddress}}/api/items
+
+###
+
+GET {{MongoDBCrudExample_HostAddress}}/api/items
+
+###

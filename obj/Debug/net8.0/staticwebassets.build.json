@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7u0XUq0MiMqKADo6dne3LRkqwUuRRs2jwuJbxRnnQrw=",
+  "Source": "MongoDBCrudExample",
+  "BasePath": "_content/MongoDBCrudExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
